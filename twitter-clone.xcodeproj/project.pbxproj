@@ -159,7 +159,6 @@
 			children = (
 				7FEAD08829B8A81D00943CD4 /* Info.plist */,
 				7FB74FA52A1FD50C00EB8850 /* Utils */,
-				7FE124EF29A5DE63000D1EBF /* Extensions */,
 				7FE124F029A5DEF6000D1EBF /* Model */,
 				7FE124F129A5DEFF000D1EBF /* Service */,
 				7FE124F229A5DF07000D1EBF /* Core */,
@@ -228,13 +227,6 @@
 				7FCDC2DC29B7DE3000029BBB /* MessagesView.swift */,
 			);
 			path = Messages;
-			sourceTree = "<group>";
-		};
-		7FE124EF29A5DE63000D1EBF /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Extensions;
 			sourceTree = "<group>";
 		};
 		7FE124F029A5DEF6000D1EBF /* Model */ = {
